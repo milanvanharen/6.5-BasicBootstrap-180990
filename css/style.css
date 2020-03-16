@@ -1,0 +1,40 @@
+body {
+	background-color: darkgray;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 50px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: 2px 2px 8px black;
+}
+
+header {
+	padding: 40px;
+	background-color: darkgrey;
+}
+
+div.main-content {
+	margin: 0px 70px;
+}
+
+.carousel img {
+    max-height: 300px;
+	max-width: 400px;
+    margin: 0 auto;
+}
+
+footer.page-footer {
+	margin-top: 50px;
+    padding: 20px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: grey;
+}
+
+.row {
+ margin-bottom:30px;
+}
